@@ -1,0 +1,11 @@
+Reviews,keyword1,frequency1,keyword2,frequency2,Score,class
+1,delicious,3,terrible,1,6,1
+2,delicious,4,terrible,1,8.5,1
+3,delicious,2,terrible,1,3.5,1
+4,delicious,1,terrible,2,-0.5,0
+5,delicious,1,terrible,2,-0.5,0
+6,delicious,2,terrible,0,3.5,1
+7,delicious,1,terrible,1,2,1
+8,delicious,2,terrible,2,2,1
+9,delicious,1,terrible,2,-1,0
+10,delicious,2,terrible,4,-2,0
